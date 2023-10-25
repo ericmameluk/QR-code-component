@@ -9,5 +9,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Ericmmk]([https://www.your-site.com](https://github.com/Ericmmk))
+- Website - [Ericmmk](https://github.com/Ericmmk)
 - Frontend Mentor - [@Ericmmk](https://www.frontendmentor.io/profile/Ericmmk)
